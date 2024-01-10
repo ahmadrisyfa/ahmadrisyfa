@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad Risyfa" /> </p>
 
 <p align="left">   
-<a href="https://instagram.com/kirunn_tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirunn_tv" height="30" width="40" />kirunn_tv</a>
+<a href="https://instagram.com/kirunn_tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirunn_tv" height="30" width="40" /></a>kirunn_tv
 </p>
 
 
